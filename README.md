@@ -2,18 +2,19 @@
 <h1>Frxst Readme</h1>
 </div>
 
-<p><b>
-
-Soy programador novato, centrado en desarrollo web fron-end aunque aveces vario entre otras cosas<br>
-
-</b></p>
 <div align="center">
-<h1>Tecnologias</h1>
+<p><b>
+Soy programador novato, centrado en desarrollo web fron-end aunque aveces vario entre otras cosas<br>
+</b></p>
 </div>
 
 <!--Plantilla:
 <img src="" alt="" width="50px"/>
 -->
+
+<div align="center">
+<h1>Tecnologias</h1>
+</div>
 
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="50px"/>
