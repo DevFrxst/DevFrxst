@@ -1,12 +1,15 @@
-# Frxst Readme
+<div align="center">
+<h1>Frxst Readme</h1>
+</div>
 
 <p><b>
 
 Soy programador novato, centrado en desarrollo web fron-end aunque aveces vario entre otras cosas<br>
 
 </b></p>
-
-## Tecnologias
+<div align="center">
+<h1>Tecnologias</h1>
+</div>
 
 <!--Plantilla:
 <img src="" alt="" width="50px"/>
