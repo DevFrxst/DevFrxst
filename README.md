@@ -4,7 +4,7 @@
 
 <div align="center">
 <p><b>
-Soy programador novato, centrado en desarrollo web fron-end aunque aveces vario entre otras cosas<br>
+Soy programador novato, centrado en desarrollo web front-end aunque aveces vario entre otras cosas<br>
 </b></p>
 </div>
 
